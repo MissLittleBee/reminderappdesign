@@ -3,7 +3,7 @@
 This project is a design concept for iOS Reminder app, which I used for learning HTM and CSS.
 You can try click or just mouse over the buttons and watch what happens.
 
-**Screenshots:** ![Screenshot from application](screenshot.PNG)
+**Screenshots:** 
 
 **Description:**
 
